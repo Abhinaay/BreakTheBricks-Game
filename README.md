@@ -27,4 +27,4 @@ It is a game developed in Java. Java Swing is used to develop the UI.
 
 ## Screenshots
 
-**[Screenshot 1]**(/Bricks/pic/Screenshot1.png)
+!**[Screenshot 1]**(/Bricks/pic/Screenshot1.png)
